@@ -1,0 +1,3 @@
+This project is made for Embedded System Programming lecture that is named under CMP3010. 
+There are a few features in the project ; color reading sensor , buzzer , leds.
+Normally wheels do not run. When the sensor reads black color , wheels start moving through black line , buzzer starts buzzing , led is on and vehicle goes until color sensor reads white color. When sensor reads the white ; wheels stop , buzzer starts buzzing with different sound than other , another color led is on.
